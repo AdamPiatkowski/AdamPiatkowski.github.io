@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-  var apiRoot = 'https://aqueous-refuge-65564.';
+  var apiRoot = 'https://aqueous-refuge-65564.herokuapp.com/';
   var datatableRowTemplate = $('[data-datatable-row-template]').children()[0];
   var tasksContainer = $('[data-tasks-container]');
 
